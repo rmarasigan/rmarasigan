@@ -18,6 +18,7 @@ A Software Developer from Philippines. For Web Development, I have a background 
 * 🌍  I'm based in Batangas City, Philippines
 * 🖥️  See my portfolio at [rmarasigan.github.io](http://rmarasigan.github.io/)
 * :link: Want to learn different tools or technologies? Just visit this links:
+  * [Aide Memoire 👩🏻‍💻](https://rmarasigan.github.io/notes/)
   * [Developers Guide](https://developersguide.netlify.app)
   * [AWS Cloud Practitioner](https://aws-cloud-practitioner.herokuapp.com/)
 <br><br>
