@@ -13,11 +13,11 @@
   <a href="https://open.spotify.com/playlist/0dQByqqSHbtNpm0EMjxqT3?si=32d0815a935b4cb9"><img src="https://img.shields.io/badge/Spotify-43853D?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-A Software Developer from Philippines. For Web Development, I have a background in both back-end and in front-end. I design and build user interfaces. I personally prefer to keep learning, continue challenging myself and do interesting things that matter. Code things from scratch and bringing ideas to life in the browser. I’m currently taking an Amazon Web Service Certified Cloud Practitioner Course.
+A Software Developer from the Philippines. For Web Development, I have a background in both back-end and in front-end. I design and build user interfaces. I personally prefer to keep learning, continue challenging myself, and do interesting things that matter. Code things from scratch and bring ideas to life in the browser. I’m currently taking an Amazon Web Service Certified Cloud Practitioner Course.
 
 * 🌍  I'm based in Batangas City, Philippines
 * 🖥️  See my portfolio at [rmarasigan.github.io](http://rmarasigan.github.io/)
-* :link: Want to learn different tools or technologies? Just visit this links:
+* :link: Want to learn different tools or technologies? Just visit these links:
   * [Aide Memoire 👩🏻‍💻](https://rmarasigan.github.io/notes/)
   * [Developers Guide](https://developersguide.netlify.app)
   * [AWS Cloud Practitioner](https://aws-cloud-practitioner.herokuapp.com/)
