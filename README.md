@@ -63,6 +63,7 @@ A Software Developer from the Philippines. For Web Development, I have a backgro
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;&nbsp;
 </p>
 <br/>
 <hr />
@@ -83,6 +84,7 @@ A Software Developer from the Philippines. For Web Development, I have a backgro
 <!--
 // Badges for github
 https://dev.to/envoy_/150-badges-for-github-pnk
+https://ileriayo.github.io/markdown-badges/
 
 // Netlify
 https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
