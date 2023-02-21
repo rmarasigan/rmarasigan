@@ -83,7 +83,7 @@ A Software Developer from the Philippines. For Web Development, I have a backgro
     </td>
   </tr>
 </table>
-<a href="http://www.github.com/rmarasigan"><img src="https://activity-graph.herokuapp.com/graph?username=rmarasigan&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/rmarasigan"><img src="https://activity-graph.herokuapp.com/graph?username=rmarasigan&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <!--
 // Badges for github
