@@ -21,7 +21,7 @@ A Software Developer from the Philippines. For Web Development, I have a backgro
   * [freeCodeCamp](https://github.com/rmarasigan/freecodecamp/blob/master/README.md)
   * [Aide Memoire 👩🏻‍💻](https://rmarasigan.github.io/notes/)
   * [Developers Guide](https://developersguide.netlify.app)
-<!--   * [AWS Cloud Practitioner](https://aws-cloud-practitioner.herokuapp.com/) -->
+  * [AWS Cloud Practitioner](https://aws-cloud-practitioner.netlify.app/)
 <br><br>
 
 <h4>💻 OPERATING SYSTEM</h4>
