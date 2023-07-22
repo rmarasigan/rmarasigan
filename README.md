@@ -10,7 +10,7 @@
 <p align='center'>
   <a href="https://www.twitter.com/rmarasigan_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rmarasigan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/playlist/0cTY1O0WPt9cc46N9LjEKg?si=RR_mmO6aQDOeJMm3YjkMkA&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-43853D?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/playlist/2c9yRetdcCLMgDZLb4oxXn?si=3bfc87e74cde4d9e"><img src="https://img.shields.io/badge/Spotify-43853D?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 A Web Developer from the Philippines. I have a background in both back-end and front-end development in Web Development. I design and build user interfaces. I prefer to keep learning, continue challenging myself, and do exciting things that matter. Code stuff from scratch and bring ideas to life in the browser. I’m currently taking an Amazon Web Service Certified Cloud Practitioner Course.
