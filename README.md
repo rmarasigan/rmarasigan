@@ -1,10 +1,10 @@
 <div align='center'>
   <img src="https://github.com/rmarasigan/rmarasigan.github.io/blob/master/assets/img/avatar.png" style="width:15%;height:10%;">
 </div>
-<h1 align='center'>Hi there, I'm Shanelle 👋👩‍💻</h1>
+<h1 align='center'>Hi there, I'm Shanelle 👋🏻👩🏻‍💻</h1>
 <h4 align='center'>
   :book: Reading&nbsp;&nbsp;
-  &nbsp;&nbsp;:art: Designing&nbsp;&nbsp;
+  &nbsp;&nbsp;:coffee: Coffee Addict&nbsp;&nbsp;&nbsp;&nbsp;
   :camera: Photography&nbsp;&nbsp;
 </h4>
 <p align='center'>
@@ -13,12 +13,11 @@
   <a href="https://open.spotify.com/playlist/2c9yRetdcCLMgDZLb4oxXn?si=3bfc87e74cde4d9e"><img src="https://img.shields.io/badge/Spotify-43853D?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-A Web Developer from the Philippines. I have a background in both back-end and front-end development in Web Development. I design and build user interfaces. I prefer to keep learning, continue challenging myself, and do exciting things that matter. Code stuff from scratch and bring ideas to life in the browser. I’m currently taking an Amazon Web Service Certified Cloud Practitioner Course.
+A Web Developer from the Philippines. I have a background in both back-end and front-end development in Web Development. I design and build user interfaces. I prefer to keep learning, continue challenging myself, and do exciting things that matter. Code stuff from scratch and bring ideas to life in the browser. I'm currently taking an Amazon Web Service Certified Cloud Practitioner Course.
 
 * 🌍  I'm based in Batangas City, Philippines
 * 🖥️  See my portfolio at [rmarasigan.github.io](http://rmarasigan.github.io/)
 * :link: Want to learn different tools or technologies? Just visit these links:
-  * [freeCodeCamp](https://github.com/rmarasigan/freecodecamp/blob/master/README.md)
   * [Aide Memoire 👩🏻‍💻](https://rmarasigan.github.io/notes/)
   * [Developers Guide](https://developersguide.netlify.app)
   * [AWS Cloud Practitioner](https://aws-cloud-practitioner.netlify.app/)
@@ -63,39 +62,16 @@ A Web Developer from the Philippines. I have a background in both back-end and f
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;
 </p>
 <br/>
-<hr />
 
-<h4>MY GITHUB STATS</h4>
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <a href="http://www.github.com/rmarasigan"><img src="https://github-readme-stats.vercel.app/api?username=rmarasigan&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="rmarasigan's GitHub stats" /></a>
-    </td>
-    <td>
-      <a href="http://www.github.com/rmarasigan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rmarasigan&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-  </tr>
-</table>
-<!-- <a href="http://www.github.com/rmarasigan"><img src="https://activity-graph.herokuapp.com/graph?username=rmarasigan&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<p align="center">
+  <a href="https://github.com/rmarasigan?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=rmarasigan&theme=nord&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@rmarasigan github-readme-stats"/></a>
+  <a href="https://github.com/rmarasigan?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=rmarasigan&theme=nord&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@rmarasigan github-readme-streak-stats"/></a>
+</p>
 
-<!--
-// Badges for github
-https://dev.to/envoy_/150-badges-for-github-pnk
-https://ileriayo.github.io/markdown-badges/
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmarasigan&theme=nord&hide_border=false&hide_title=false&area=true&custom_title=Contribution%20Graph%20In%20All%20Repositories" width="95%" alt="activity graph">
+</p>
 
-// Netlify
-https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
-// Travis CI
-https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white
-
-**rmarasigan/rmarasigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=rmarasigan&column=-1&theme=nord&layout=compact"width="95%"/> 
+</p>
