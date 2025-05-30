@@ -1,24 +1,21 @@
 <h3 align='center'>Hi there! I'm Shanelle 👋🏻👩🏻‍💻</h3>
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/AWS Cloud Practitioner Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
+
 <h4 align='center'>
   :book: Reading&nbsp;&nbsp;
   &nbsp;&nbsp;:coffee: Coffee Addict&nbsp;&nbsp;&nbsp;&nbsp;
   :camera: Photography&nbsp;&nbsp;
 </h4>
 
-A Web Developer from the Philippines. I have a background in both back-end and front-end development in Web Development. I design and build user interfaces. I prefer to keep learning, continue challenging myself, and do exciting things that matter. Code stuff from scratch and bring ideas to life in the browser.
-
----
-
-#### 🔗 &nbsp;Explore Tools & Technologies
-
-* [Aide Memoire 👩🏻‍💻](https://rmarasigan.github.io/notes/)
-* [Developers Guide](https://developersguide.netlify.app)
-* [AWS Cloud Practitioner](https://aws-cloud-practitioner.netlify.app/)
+A Web Developer from the Philippines. I have a background in both back-end and front-end development in Web Development. I design and build user interfaces. I prefer to continue learning, challenge myself, and do exciting things that matter. Code stuff from scratch and bring ideas to life in the browser.
 
 ---
 
 #### 🛠 &nbsp;Tech Stack
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;
@@ -33,6 +30,14 @@ A Web Developer from the Philippines. I have a background in both back-end and f
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+#### 🌱 &nbsp;Currently Learning
+
+![AWS](https://img.shields.io/badge/AWS_Developer_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)&nbsp;&nbsp;
+![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=scaleway&logoColor=white)&nbsp;&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
